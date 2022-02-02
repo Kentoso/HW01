@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Demian\source\repos\HW01\HW01\main.cpp(39,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HW01.vcxproj -> C:\Users\Demian\source\repos\HW01\Debug\HW01.exe

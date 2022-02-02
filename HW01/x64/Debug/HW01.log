@@ -1,0 +1,3 @@
+﻿  ArrayChanger.cpp
+E:\Studying\Syncthing\HW01\HW01\ArrayChanger.cpp(30,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HW01.vcxproj -> E:\Studying\Syncthing\HW01\x64\Debug\HW01.exe
